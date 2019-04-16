@@ -19,8 +19,9 @@ def find_the_cheese(strings)# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   cheese_types.each do |cheese|
-    if strings.include?(cheese)
-      gotcha = cheese
-    end
+    puts cheese
+  #  if strings.include?(cheese)
+  #    gotcha = cheese
+  #  end
   end
 end
