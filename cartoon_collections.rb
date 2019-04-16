@@ -22,4 +22,5 @@ def find_the_cheese(strings)# code an argument here
     if strings.include?(cheese)
       gotcha = cheese
     end
+  end
 end
