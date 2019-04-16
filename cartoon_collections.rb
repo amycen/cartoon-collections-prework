@@ -26,5 +26,3 @@ def find_the_cheese(strings)# code an argument here
   end
   gotcha
 end
-
-puts find_the_cheese(["a","c","d"])
