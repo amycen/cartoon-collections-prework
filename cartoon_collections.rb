@@ -23,6 +23,7 @@ def find_the_cheese(strings)# code an argument here
       gotcha = cheese
     end
   end
+  gotcha
 end
 
 find_the_cheese(["a","c","gouda"])
