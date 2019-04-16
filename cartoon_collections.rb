@@ -27,4 +27,4 @@ def find_the_cheese(strings)# code an argument here
   gotcha
 end
 
-puts find_the_cheese(["a","c","gouda"])
+puts find_the_cheese(["a","c","d"])
